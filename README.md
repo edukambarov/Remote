@@ -13,3 +13,4 @@ git remote add origin <url-адрес репозитория в сети>
 ## 8. Отправить изменения из локального депозитория можно с помощью команды
 
 **git push**
+sdghsfgjfgjagfjafgafgnafgnafg
